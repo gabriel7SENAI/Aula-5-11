@@ -1,0 +1,14 @@
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\bin\Debug\net8.0\aula(5-11) base C#.exe
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\bin\Debug\net8.0\aula(5-11) base C#.deps.json
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\bin\Debug\net8.0\aula(5-11) base C#.runtimeconfig.json
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\bin\Debug\net8.0\aula(5-11) base C#.dll
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\bin\Debug\net8.0\aula(5-11) base C#.pdb
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\obj\Debug\net8.0\aula(5-11) base C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\obj\Debug\net8.0\aula(5-11) base C#.AssemblyInfoInputs.cache
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\obj\Debug\net8.0\aula(5-11) base C#.AssemblyInfo.cs
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\obj\Debug\net8.0\aula(5-11) base C#.csproj.CoreCompileInputs.cache
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\obj\Debug\net8.0\aula(5-11) base C#.dll
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\obj\Debug\net8.0\refint\aula(5-11) base C#.dll
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\obj\Debug\net8.0\aula(5-11) base C#.pdb
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\obj\Debug\net8.0\aula(5-11) base C#.genruntimeconfig.cache
+C:\Users\476849624\Documents\Gabriel Cavalheiro\AULAS\aula(5-11) base C#\obj\Debug\net8.0\ref\aula(5-11) base C#.dll
