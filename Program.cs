@@ -112,4 +112,4 @@ else // else => "senão"
 // Funções:
 // 
 
-// 3:13:45
+// 3:13:45 -> parei aqui, pois quinta-feira tenho curso do escola do amanhã
